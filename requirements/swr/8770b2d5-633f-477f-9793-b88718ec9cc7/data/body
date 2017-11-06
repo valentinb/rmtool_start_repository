@@ -9,8 +9,7 @@ Markdown can be used to write requirements as described below :
 
 
 
-
-[State machine description](req://SWR-0000002)
+[**SWR-0000002**](ref://SWR-0000002).
 
 ```maths
 c = \pm\sqrt{a^2 + b^2}
