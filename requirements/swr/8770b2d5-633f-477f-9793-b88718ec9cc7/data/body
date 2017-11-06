@@ -15,3 +15,7 @@ Markdown can be used to write requirements as described below :
 \`\`\`maths
 c = \pm\sqrt{a^2 + b^2}
 \`\`\`
+
+```maths
+Roll\_Error = Desired\_Roll\_Angular\_Speed - Measured\_Roll\_Angular\_Speed
+```
