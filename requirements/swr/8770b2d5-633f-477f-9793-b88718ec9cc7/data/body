@@ -6,3 +6,8 @@ Markdown can be used to write requirements as described below :
 
 `* bullet` :
 * bullet
+
+
+
+
+[State machine description](req://SWR-0000002)
